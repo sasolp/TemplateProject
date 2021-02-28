@@ -1,0 +1,29 @@
+// TemplateProject.idl : type library source for TemplateProject.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (TemplateProject.tlb).
+
+[ uuid(81F07433-0DB8-483C-AD1A-07491471CB8C), version(1.0) ]
+library TemplateProject
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	//  Primary dispatch interface for CTemplateProjectDoc
+	
+	[ uuid(70FEA115-0C3A-483A-91F4-6B0BFC71CEE8) ]
+	dispinterface ITemplateProject
+	{
+		properties:
+			
+		methods:
+	};
+
+	//  Class information for CTemplateProjectDoc
+	
+	[ uuid(655B0A83-AED4-4ECA-AEED-9E9027D5C1EF) ]
+	coclass TemplateProject
+	{
+		[default] dispinterface ITemplateProject;
+	};
+};

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TemplateProject">
+</Property><Property Name="Solution File" Value="J:\DIP\Projects\BioFingerUtility\TemplateProject\TemplateProject\TemplateProject.sln">
+</Property><Property Name="Date" Value="Friday, February 08, 2013">
+</Property><Property Name="Time" Value="21:55:26 PM">
+</Property></Properties><Event ErrorLevel="0" Project="TemplateProject" Source="TemplateProject.vcproj" Description="Converting project file 'J:\DIP\Projects\BioFingerUtility\TemplateProject\TemplateProject\TemplateProject.vcproj'.">
+</Event><Event ErrorLevel="1" Project="TemplateProject" Source="TemplateProject.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="TemplateProject" Source="TemplateProject.vcproj" Description="MSB8012: $(TargetName) ('TemplateProject') does not match the Linker's OutputFile property value 'J:\DIP\Projects\BioFingerUtility\TemplateProject\TemplateProject\FinalStaticRelease\FingerSegmentation.exe' ('FingerSegmentation') in project configuration 'FinalStaticRelease|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="TemplateProject" Source="TemplateProject.vcproj" Description="MSB8012: $(TargetPath) ('J:\DIP\Projects\BioFingerUtility\TemplateProject\TemplateProject\FinalStaticRelease\TemplateProject.exe') does not match the Linker's OutputFile property value 'J:\DIP\Projects\BioFingerUtility\TemplateProject\TemplateProject\FinalStaticRelease\FingerSegmentation.exe' ('J:\DIP\Projects\BioFingerUtility\TemplateProject\TemplateProject\FinalStaticRelease\FingerSegmentation.exe') in project configuration 'FinalStaticRelease|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="TemplateProject" Source="TemplateProject.vcproj" Description="Done converting to new project file 'J:\DIP\Projects\BioFingerUtility\TemplateProject\TemplateProject\TemplateProject.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="TemplateProject" Source="TemplateProject.vcproj" Description="Converted">
+</Event></UpgradeLog>
